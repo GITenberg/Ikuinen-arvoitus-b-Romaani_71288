@@ -1,0 +1,40 @@
+_repo: Ikuinen-arvoitus-b-Romaani_71288
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kaila, Antti
+    gutenberg_agent_id: '45669'
+    url: http://www.gutenberg.org/2009/agents/45669
+creator:
+  author:
+    agent_name: Geijerstam, Gustaf af
+    aliases:
+    - Af Geijerstam, Gustaf
+    - Geijerstam, Gustav
+    birthdate: 1858
+    deathdate: 1909
+    gutenberg_agent_id: '33352'
+    url: http://www.gutenberg.org/2009/agents/33352
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
+    - https://en.wikipedia.org/wiki/Gustaf_af_Geijerstam
+    - https://fi.wikipedia.org/wiki/Gustaf_af_Geijerstam
+description: ''
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71288'
+language: fi
+pgterms:marc905: 20211130052949afgeijerst
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Ikuinen arvoitus : $b Romaani'
+url: http://www.gutenberg.org/ebooks/71288
