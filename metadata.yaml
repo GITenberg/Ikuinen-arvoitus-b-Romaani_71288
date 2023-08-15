@@ -5,6 +5,9 @@ contributor:
     agent_name: Kaila, Antti
     gutenberg_agent_id: '45669'
     url: http://www.gutenberg.org/2009/agents/45669
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Geijerstam, Gustaf af
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gustaf_af_Geijerstam
     - https://fi.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71288#Ikuinen-arvoitus-b-Romaani
 gutenberg_issued: '2023-07-28'
 identifiers:
   gutenberg: '71288'
